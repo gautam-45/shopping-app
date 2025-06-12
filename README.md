@@ -28,14 +28,11 @@ A sleek, **responsive** shopping app built using **Flutter** and **Dart**. This 
 
 > Screenshots of the app UI on various screens:
 
-### 🏠 Home Page  
-![Home Page](assets/screenshots/home.png)
-
-### 📄 Product Details  
-![Product Detail](assets/screenshots/product_detail.png)
-
-### 🛒 Cart Page  
-![Cart Page](assets/screenshots/cart.png)
+<p align="center">
+  <img src="assets/screenshots/home.png" alt="Home Page" width="250" style="margin-right: 10px;" />
+  <img src="assets/screenshots/product_detail.png" alt="Product Detail Page" width="250" style="margin-right: 10px;" />
+  <img src="assets/screenshots/cart.png" alt="Cart Page" width="250" />
+</p>
 
 ---
 
