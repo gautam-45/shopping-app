@@ -1,16 +1,47 @@
-# shopping_app
+# 🛒 Flutter Shopping App
 
-A new Flutter project.
+A sleek, **responsive** shopping app built using **Flutter** and **Dart**. This project showcases products with filtering and search capabilities, detailed product views, and a functional shopping cart — delivering a smooth and adaptive e-commerce experience on both mobile and desktop.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏠 **Home Page**
+  - Displays a list/grid of all available products.
+  - **Search bar** to find products quickly.
+  - **Filter by brand** using interactive buttons.
+  - Fully **responsive** UI across screen sizes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📄 **Product Detail Page**
+  - View product image, title, brand, price, and sizes.
+  - **Select size** before adding to cart.
+  - **Add to cart** functionality.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🛍 **Cart Page**
+  - View added products with selected size.
+  - **Delete** items from the cart.
+  - Real-time updates and a clean layout.
+
+---
+
+## 📸 Screenshots
+
+> Screenshots of the app UI on various screens:
+
+### 🏠 Home Page  
+![Home Page](assets/screenshots/home.png)
+
+### 📄 Product Details  
+![Product Detail](assets/screenshots/product_detail.png)
+
+### 🛒 Cart Page  
+![Cart Page](assets/screenshots/cart.png)
+
+---
+
+## 🧱 Tech Stack
+
+- **Flutter** – Cross-platform UI toolkit for building native apps
+- **Dart** – Programming language used with Flutter
+- **State Management** – Using `Provider`
+- **Responsive Design** – UI adapts to different screen sizes using `LayoutBuilder` along with GridView and ListView builders.
